@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">News App</string>
+    <string name="no_connection">No internet connection</string>
+    <string name="no_articles">Nothing found</string>
+    <string name="search">Search</string>
+
+</resources>
